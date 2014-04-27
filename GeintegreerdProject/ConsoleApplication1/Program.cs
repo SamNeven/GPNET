@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Geïntegreerd Project Deel 2");
+            Console.WriteLine("een beetje meer testmateriaal....")
         }
     }
 }
